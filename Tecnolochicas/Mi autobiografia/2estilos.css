@@ -1,0 +1,22 @@
+h1 { 
+color: blue;    
+text-align: center;
+font-size: 40px;
+}
+
+h2{ text-align: center;
+color: blueviolet;
+}
+
+body{
+    background-color: rgb(141, 180, 216);;
+}
+p{
+    color: rgb(245, 45, 128);
+    font-size: 18px;
+    text-align: justify; font-style: italic;
+}
+img{
+    text-align: center;
+}
+

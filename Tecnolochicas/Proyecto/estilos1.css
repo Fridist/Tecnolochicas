@@ -1,0 +1,32 @@
+h2{
+    font-size: 50px;
+    font-style: oblique;
+    color: aliceblue;
+}
+p{
+    font-style: oblique;
+    font-size: x-large;
+}
+a{
+    color: aliceblue;
+    font-size: 15px;
+    
+    display: flex;
+    justify-content: space-between;
+    height: 63px;
+    background: #171717;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+
+    margin-left: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    
+}
+
+
+
+
+
